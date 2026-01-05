@@ -9,15 +9,11 @@ symptoms and providing recommendations based on predefined rules.
 This project is designed for academic purposes and demonstrates the application of
 expert systems and artificial intelligence concepts.
 
----
-
 ## 🎯 Objectives
 - To design a rule-based expert system for COVID-19 diagnosis
 - To analyze symptoms and provide diagnostic suggestions
 - To implement an expert system using MATLAB
 - To understand knowledge representation and inference mechanisms
-
----
 
 ## 🛠 Technologies Used
 - MATLAB
